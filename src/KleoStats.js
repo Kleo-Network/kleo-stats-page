@@ -2,9 +2,9 @@ import React, { useEffect, useState } from "react";
 import { Users, CreditCard, FileUp } from "lucide-react";
 
 const MOCK_STATS = [
-	{ id: "users", title: "Users", value: 1500 },
-	{ id: "transactions", title: "Transactions", value: 4500 },
-	{ id: "itemsUploaded", title: "Items Uploaded", value: 372500 },
+	{ id: "users", title: "Users", value: 6000 },
+	{ id: "transactions", title: "Transactions", value: 18000 },
+	{ id: "itemsUploaded", title: "Items Uploaded", value: 572500 },
 ];
 
 const ICONS = {
